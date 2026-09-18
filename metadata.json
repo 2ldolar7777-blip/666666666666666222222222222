@@ -1,0 +1,6 @@
+{
+  "name": "SAQR OS",
+  "description": "Autonomous Agent OS featuring Floating Glassmorphic UI, Adaptive Hardware Profiler, Self-Modification Engine, and Modular Plugin Sandboxing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
